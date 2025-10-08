@@ -23,7 +23,7 @@
 <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/3435ae47-117e-477b-b44a-17cf831e4090" />
 
 10.11.3
-<img width="256" height="10000" alt="image" src="https://github.com/user-attachments/assets/8fd1fb29-8793-4e9b-8699-93338534f703" />
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/8fd1fb29-8793-4e9b-8699-93338534f703" />
 
 10.11.4
 
