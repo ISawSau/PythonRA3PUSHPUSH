@@ -1,1 +1,1 @@
-### Els programas són a la branca ra3
+### Els programas de la RA3 són a la branca ra3
