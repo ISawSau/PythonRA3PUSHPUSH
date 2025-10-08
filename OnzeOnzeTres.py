@@ -1,5 +1,4 @@
 # l'exercici defineix una funció que aplica un xifratge César desplaçant les lletres d'una paraula segons un nombre donat
-
 letters = 'abcdefghijklmnopqrstuvwxyz'
 numbers = range(len(letters))
 letter_map = dict(zip(letters, numbers))

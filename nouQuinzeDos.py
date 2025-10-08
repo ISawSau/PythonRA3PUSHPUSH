@@ -1,4 +1,5 @@
 # el programa comprova si dues paraules són anagrames, és a dir, si tenen les mateixes lletres en un ordre diferent
+
 def es_anagrama(paraula1, paraula2):
     """Comprova si dues paraules són anagrames."""
     print(f"Comparant '{paraula1}' amb '{paraula2}' → {sorted(paraula1)} == {sorted(paraula2)}")

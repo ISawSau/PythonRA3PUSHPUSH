@@ -1,4 +1,5 @@
 # el exercici comprova si una paraula és un palíndrom, és a dir, si es llegeix igual d’endavant que d’endarrere
+
 def es_palindrom(paraula):
     print(f"Comprovant si '{paraula}' és palíndrom → {paraula == ''.join(reversed(paraula))}")
     return paraula == ''.join(reversed(paraula))

@@ -1,4 +1,5 @@
 # el exercici agafa una frase i inverteix l’ordre de les paraules, posant la primera en majúscula i les altres en minúscula
+
 def reverse_sentence(frase):
     paraules = frase.split()
     paraules_invertides = paraules[::-1]
